@@ -1,2 +1,3 @@
 # Old-guy-matrix-
-Learning to code. 
+
+I'm a 63 yr. old guy who is learning how to code.
